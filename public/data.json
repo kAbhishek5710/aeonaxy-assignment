@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started",
+      "image": "./run.svg",
+      "description": "Learn the basics, connect your calendar, and discover features that will make scheduling easier."
+    },
+    {
+      "id": 2,
+      "title": "Using Calendly",
+      "image": "./desk.png",
+      "description": "Availability, Event Type Settings, and Multi-user features."
+    },
+    {
+      "id": 3,
+      "title": "Calendly for Mobile",
+      "image": "./mobile.png",
+      "description": "Mobile Apps for iOS & Android."
+    },
+    {
+      "id": 4,
+      "title": "Integrations and Automations",
+      "image": "./integrations.png",
+      "description": "Includes Calendar Connections, Calendly Integrations, Workflows, and Embed Options."
+    },
+    {
+      "id": 5,
+      "title": "Account Settings",
+      "image": "./setting.png",
+      "description": "Includes Billing, Security, SAML/SCIM setup, and account options."
+    },
+    {
+      "id": 6,
+      "title": "Video Tutorials",
+      "image": "./tutorial.png",
+      "description": "Watch these short videos to learn about getting started with Calendly."
+    }
+  ]
+  
